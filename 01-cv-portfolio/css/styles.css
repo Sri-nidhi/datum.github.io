@@ -184,7 +184,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 6. ABOUT SECTION
 --------------------------------- */
 
-.radial-progress{ position: relative; max-width: 200px; margin: 0 auto; }
+.radial-progress{ position: relative; max-width: 200px; margin: 0 auto; color:rgb(93, 116, 93) }
 
 .radial-progress .progressbar-text{ font-size: 2.2em; font-weight: 500; 
 	padding-bottom: 25px!important; color: #333!important; }
