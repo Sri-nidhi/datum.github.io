@@ -115,6 +115,7 @@ header .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; background
 header .info{ margin-bottom: 10px; }
 
 header .info .icon{ float: left; font-size: 30px; }
+header .info .icon1{ float: left; font-size: 30px; margin-left: 3px; }
 
 header .info .right-area{ margin-left: 100px; }
 
