@@ -111,6 +111,7 @@ b.max-bold{ font-weight: 700; }
 
 header{ position: absolute; top: 30px; left: 0; right: 0; z-index: 100; }
 
+header .icon-bar{margin-bottom:10px; background: #A3D0A3; color: #0E121E;}
 header .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; background: #A3D0A3; color: #0E121E; }
 
 header .info{ margin-bottom: 10px; }
