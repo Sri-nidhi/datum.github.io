@@ -10,7 +10,7 @@
         }
       },
       scaleV : {
-        visible : false
+        visible : true
       },
       scaleK : {
         values : '0:5:1',

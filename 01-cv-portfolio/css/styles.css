@@ -90,6 +90,13 @@ b.max-bold{ font-weight: 700; }
 
 .section .heading:before{ content:''; height: 10px; width: 50px; border-radius: 5px;
 	margin-bottom: 20px; display: block; background: #A3D0A3; }
+
+	.section .heading  .myChart {
+		height:100%;
+		width:100%;
+		min-height:250px;
+	  }
+	
 	
 .margin-t-10{ margin-top: 10px; }
 
@@ -104,11 +111,6 @@ b.max-bold{ font-weight: 700; }
 
 .font-lite-black{ color: #999; }
 
-.myChart {
-	height:100%;
-	width:100%;
-	min-height:250px;
-  }
 
 
 /* ---------------------------------
