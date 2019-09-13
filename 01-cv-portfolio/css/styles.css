@@ -110,7 +110,7 @@ b.max-bold{ font-weight: 700; }
 --------------------------------- */
 
 header{ position: absolute; top: 30px; left: 0; right: 0; z-index: 100; }
-header .heading-wrapper{ border-radius: 5px; padding: 20px 40px 20px; background: #40dab2; color: rgb(26, 25, 25); }
+header .heading-wrapper{ border-radius: 5px; padding: 10px 40px 10px; background: #40dab2; color: rgb(26, 25, 25); }
 
 header .info{ margin-bottom: 10px; }
 
