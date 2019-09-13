@@ -92,13 +92,21 @@ b.max-bold{ font-weight: 700; }
 	margin-bottom: 20px; display: block; background: #A3D0A3; }
 
 .section  .chart{ height: 300px;
-	width: 300px; }
+	width: 300px;
+	position: absolute;
+	direction: ltr;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	overflow: hidden;
+	pointer-events: none;
+	visibility: hidden;
+	z-index: -1; }
 
 .section  #myChart {
-		height:100%;
-		width:100%;
-		height:100px;
-		width: 100px;
+height: 300px;
+width: 300px;
 
 	  }
 zing-grid[loading] {
