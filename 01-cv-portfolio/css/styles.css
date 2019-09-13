@@ -104,14 +104,12 @@ b.max-bold{ font-weight: 700; }
 
 .font-lite-black{ color: #999; }
 
-#myChart {
+.myChart {
 	height:100%;
 	width:100%;
 	min-height:250px;
   }
-  .zc-ref {
-	display:none;
-}
+
 
 /* ---------------------------------
 3. HEADER
