@@ -96,7 +96,9 @@ b.max-bold{ font-weight: 700; }
 		width:100%;
 		min-height:250px;
 	  }
-	
+zing-grid[loading] {
+		height: 450px;
+	}
 	
 .margin-t-10{ margin-top: 10px; }
 
