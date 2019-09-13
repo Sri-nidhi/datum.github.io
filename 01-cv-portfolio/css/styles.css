@@ -91,13 +91,14 @@ b.max-bold{ font-weight: 700; }
 .section .heading:before{ content:''; height: 10px; width: 50px; border-radius: 5px;
 	margin-bottom: 20px; display: block; background: #A3D0A3; }
 
-.section  .chart{ padding:100px 0 50px; }
+.section  .chart{ height: 300px;
+	width: 300px; }
 
 .section  #myChart {
 		height:100%;
 		width:100%;
 		min-height:250px;
-		padding: 100px 0 50px;
+
 	  }
 zing-grid[loading] {
 		height: 450px;
