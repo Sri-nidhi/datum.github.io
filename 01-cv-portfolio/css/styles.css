@@ -104,6 +104,14 @@ b.max-bold{ font-weight: 700; }
 
 .font-lite-black{ color: #999; }
 
+#myChart {
+	height:100%;
+	width:100%;
+	min-height:250px;
+  }
+  .zc-ref {
+	display:none;
+}
 
 /* ---------------------------------
 3. HEADER
@@ -177,6 +185,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .portfolio-section .p-item.p-item-2 .img:first-child{ float: left; width: 50%; padding-right: 7.5px; }
 
 .portfolio-section .p-item.p-item-2 .img:last-child{ float: right; width: 50%; padding-left: 7.5px; }
+
 
 
 /* ---------------------------------
