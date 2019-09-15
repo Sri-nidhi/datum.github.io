@@ -137,6 +137,7 @@ zing-grid[loading] {
 3. HEADER
 --------------------------------- */
 
+
 header{ position: absolute; top: 30px; left: 0; right: 0; z-index: 100; }
 header .heading-wrapper{ border-radius: 5px; padding: 30px 60px 30px; border-color: #333; background: rgb(204, 204, 204, 0.4); color: rgb(26, 25, 25); }
 
@@ -234,6 +235,27 @@ header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margi
 	}
 }
 
+.hover13 figure:hover img {
+	opacity: 1;
+	-webkit-animation: flash 1.5s;
+	animation: flash 1.5s;
+}
+@-webkit-keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+@keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
 /* ---------------------------------
 4. INTRO SECTION
 --------------------------------- */
