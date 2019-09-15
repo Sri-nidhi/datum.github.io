@@ -249,7 +249,7 @@ header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margi
 .intro-section:after{ content: ''; position: absolute; bottom: 0; left: 0; right: 0;
 	height: 150px; z-index: -1; background: #fff; }
 
-.intro{ padding: 0 20px; margin-top: 150px; text-align: center; background: #fff; }
+.intro{ padding: 0 20px; margin-top: 160px; text-align: center; background: #fff; }
 
 .intro .profile-img{ height: 200px; width: 200px; border-radius: 100px; margin: 0 auto; 
 	overflow: hidden; position: relative; top: -100px; margin-bottom: -70px;  }
