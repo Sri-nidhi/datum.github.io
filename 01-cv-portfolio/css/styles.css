@@ -133,7 +133,7 @@ zing-grid[loading] {
 --------------------------------- */
 
 header{ position: absolute; top: 30px; left: 0; right: 0; z-index: 100; }
-header .heading-wrapper{ border-radius: 5px; padding: 20px 40px 20px; background: #CCCCCC; color: rgb(26, 25, 25); }
+header .heading-wrapper{ border-radius: 5px; padding: 20px 40px 20px; border-color: #333; background: #CCCCCC; color: rgb(26, 25, 25); }
 
 header .info{ margin-bottom: 10px; }
 
