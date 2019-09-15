@@ -129,7 +129,7 @@ b.max-bold{ font-weight: 700; }
 
 /* INTRO */
 
-.intro{ color: #fff; }
+.intro{ color: #fff; margin-top: 150px }
 
 .intro .profile-img{ max-width: 400px; border-radius: 5px; overflow: hidden; }
 
@@ -194,7 +194,7 @@ b.max-bold{ font-weight: 700; }
 
 .portfolio-section .portfolioFilter a.current{ color: #FFA804; }
 
-.portfolio-section .portfolioContainer{ margin-left: -15px; margin-right: -15px; }
+.portfolio-section .portfolioContainer{ margin-left: -15px; margin-right: -15px; padding-top: }
 
 .portfolio-section .p-item{ width: 25%; padding: 0 7.5px 0px; margin-top: 15px; }
 
