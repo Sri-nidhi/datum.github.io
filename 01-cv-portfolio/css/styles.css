@@ -288,7 +288,7 @@ header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margi
 .intro .information > li{ display: block; margin: 5px 0; }
 
 .intro .social-icons > li > a{ height: 35px; line-height: 35px; width: 35px; border-radius: 20px; 
-	overflow: hidden; z-index: 1; position: absolute; margin: 0 5px 5px; background: #02A7CC; color: #fff; }
+	overflow: hidden; z-index: 1; position: relative; margin: 0 5px 5px; background: #02A7CC; color: #fff; }
 
 .intro .social-icons > li > a:after{ content: ''; position: absolute; bottom: 0; left: 0; right: 0;
 	top: 0; z-index: -1; border-radius: 20px; background: #A3D0A3; 
