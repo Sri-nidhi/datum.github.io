@@ -311,7 +311,7 @@ header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margi
 
 .portfolio-section .portfolioFilter a.current{  color: #A3D0A3; }
 
-.portfolio-section .portfolioContainer{ margin-left: 35px; margin-right: 1px; }
+.portfolio-section .portfolioContainer{ margin-left: 50px; margin-right: 1px; width: 1200px;}
 
 .portfolio-section .p-item{ width: 29%; padding: 0 7.5px 0px; margin-top: 15px; }
 
