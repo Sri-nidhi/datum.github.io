@@ -313,7 +313,7 @@ header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margi
 
 .portfolio-section .portfolioContainer{ margin-left: 50px; margin-right: 1px; width: 1200px;}
 
-.portfolio-section .p-item{ width: 29%; padding: 0 7.5px 0px; margin-top: 15px; }
+.portfolio-section .p-item{ width: 29%; padding: 0 7.5px 0px; margin-top: 15px; overflow: hidden;}
 
 .portfolio-section .vdo{ padding-right: 60px;}
 .portfolio-section .p-item a{ display: inline; }
