@@ -456,7 +456,9 @@ img{
 .experience .list > li:before{ content: ''; position: absolute; top: 50%; left: 0; height: 10px; 
 	width: 10px; margin-top: -5px; display: block; border-radius: 10px; border: 2px solid #fff; }
 
-	
+a.second:after{
+		right:0;
+	  }	
 /* ---------------------------------
 8. EDUCATION SECTION
 --------------------------------- */
