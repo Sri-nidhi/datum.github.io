@@ -349,14 +349,14 @@ header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margi
 
 .portfolio-section .portfolioContainer{ margin-left: 50px; margin-right: 1px;}
 
-.portfolio-section .p-item{ width: 29%; padding: 0 7.5px 0px; margin-top: 15px; overflow: hidden; height: 250px;}
+.portfolio-section .a .p-item{ width: 29%; padding: 0 7.5px 0px; margin-top: 15px; overflow: hidden; height: 250px;}
 
 .portfolio-section .vdo{ padding-right: 30px;}
 .portfolio-section .p-item a{ display: inline; }
 
-.portfolio-section .p-item.p-item-2 .img:first-child{ float: left; width: 50%; padding-right: 7.5px; }
+.portfolio-section .a .p-item.p-item-2 .img:first-child{ float: left; width: 50%; padding-right: 7.5px; }
 
-.portfolio-section .p-item.p-item-2 .img:last-child{ float: right; width: 50%; padding-left: 7.5px; }
+.portfolio-section .a .p-item.p-item-2 .img:last-child{ float: right; width: 50%; padding-left: 7.5px; }
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Open+Sans');
 /* 
