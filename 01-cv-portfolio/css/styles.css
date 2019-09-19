@@ -320,7 +320,7 @@ header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margi
 	overflow: hidden; z-index: 1; position: relative; margin: 0 5px 5px; background: #02A7CC; color: #fff; }
 
 .intro .social-icons > li > a:after{ content: ''; position: absolute; bottom: 0; left: 0; right: 0;
-	top: 0; z-index: -1; border-radius: 20px; background: #A3D0A3; 
+	top: 0; z-index: -1; border-radius: 20px; background: #2F74BA; 
 	-webkit-transition: all .2s ease; transition: all .2s ease;
 	-webkit-transform: scale(0); transform: scale(0); }
 
@@ -338,7 +338,7 @@ header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margi
 
 .portfolio-section .portfolioFilter a{ margin: 10px 10px 0 0; }
 
-.portfolio-section .portfolioFilter a.current{  color: #A3D0A3; }
+.portfolio-section .portfolioFilter a.current{  color: #2F74BA; }
 
 .portfolio-section .portfolioContainer{ margin-left: 50px; margin-right: 1px;}
 
