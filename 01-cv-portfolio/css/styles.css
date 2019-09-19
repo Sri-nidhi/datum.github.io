@@ -53,26 +53,9 @@ h6{ font-size: .9em; letter-spacing: 1px; }
 a, button{ display: inline-block; text-decoration: none; color: inherit; line-height: 1; 
 	-webkit-transition: all .25s ease-in-out; transition: all .25s ease-in-out; }
 
-a:focus,a:active, button:focus, button:active, button:hover,
+a:focus, a:active, a:hover,
+button:focus, button:active, button:hover,
 a b.light-color:hover{ text-decoration: none; color: #2F74BA; }
-
-.a_link {
-	background:
-	   linear-gradient(
-		 to bottom, var(--mainColor) 0%,
-		 var(--mainColor) 100%
-	   );
-	  background-position: 0 100%;
-	  background-repeat: repeat-x;
-	  background-size: 4px 4px;
-	color: #000;
-	text-decoration: none;
-	transition: background-size .2s;
-  }
-  
-  .a_link:hover {
-	background-size: 4px 50px;
-  }
 
 b{ font-weight: 600; }
 
