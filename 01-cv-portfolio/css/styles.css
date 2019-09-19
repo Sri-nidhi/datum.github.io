@@ -122,6 +122,8 @@ zing-grid[loading] {
 
 .font-lite-black{ color: #999; }
 
+.font-blue{ color: #02A7CC; }
+
 @font-face {
 	font-family: 'Brongline';
 	src: url("../fonts/Brongline_Presiom_Personal_Use.ttf");
