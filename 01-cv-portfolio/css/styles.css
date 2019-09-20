@@ -154,7 +154,7 @@ header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margi
 	position: relative;
 	padding: 10px 25px;
 	
-	background-color: #4CC713;
+	background-color: #02A7CC;
 	color: white;
 	
 	font-family: sans-serif;
@@ -202,11 +202,11 @@ header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margi
 }
 
 .buttonDownload:hover:before {
-	border-color: #4CC713;
+	border-color: #02A7CC;
 }
 
 .buttonDownload:hover:after {
-	border-top-color: #4CC713;
+	border-top-color: #02A7CC;
 	animation-play-state: running;
 }
 
