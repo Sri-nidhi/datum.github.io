@@ -316,7 +316,7 @@ header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margi
 .intro{ padding: 0 20px; margin-top: 160px; text-align: center; background: #fff; }
 
 .intro .profile-img{ height: 170px; width: 170px; border-radius: 100px; margin: 0 auto; 
-	overflow: hidden; position: relative; top: -100px; margin-bottom: -70px;  }
+	overflow: hidden; position: relative; top: -50px; margin-bottom: -70px;  }
 
 .intro .information > li{ display: block; margin: 5px 0; }
 
