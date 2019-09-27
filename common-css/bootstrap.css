@@ -356,7 +356,8 @@ h1, h2, h3, h4, h5, h6 {
 
 @font-face {
 	font-family: 'Brongline';
-	src: url("../fonts/cloudy_font.ttf");
+  src: url("../fonts/cloudy_font.ttf");
+  color: #eaf6ea
 }
 
 h5 {
