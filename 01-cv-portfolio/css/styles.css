@@ -137,7 +137,7 @@ zing-grid[loading] {
 
 
 header{ position: absolute; top: 30px; left: 0; right: 0; z-index: 100; }
-header .heading-wrapper{ border-radius: 5px; padding: 30px 60px 30px; border-color: #333; background: rgb(204, 204, 204, 0.4); color: rgb(26, 25, 25); width: 100% }
+header .heading-wrapper{ border-radius: 5px; padding: 20px 60px 20px; border-color: #333; background: rgb(204, 204, 204, 0.4); color: rgb(26, 25, 25); width: 100% }
 
 header .info{ margin-bottom: 10px; }
 
@@ -305,7 +305,7 @@ header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margi
 --------------------------------- */
 
 .intro-section{ padding-top: 200px; position: relative; background-size: cover; 
-	z-index: 1;background-image: url(../../images/slider-1-1920x1080.jpg); }
+	z-index: 1; background-image: url(../../images/slider-1-1920x1080.jpg); }
 
 .intro-section:before{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0; 
 	right: 0; background: rgba(0,0,0, .2); }
