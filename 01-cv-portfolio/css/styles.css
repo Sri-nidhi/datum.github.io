@@ -156,9 +156,27 @@ header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margi
 	transition: .3s ease-in-out;
 }
 .hover13:hover {
-	-webkit-filter: blur(0);
-	filter: blur(0);
+	opacity: 1;
+	-webkit-animation: flash 1.5s;
+	animation: flash 1.5s;
 }
+@-webkit-keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+@keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
 .buttonDownload {
 	display: inline-block;
 	position: relative;
